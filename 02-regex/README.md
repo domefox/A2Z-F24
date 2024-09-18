@@ -73,6 +73,7 @@ In preparation for next week, add a link to a data source or API (even just data
 - Shun -- [2018 Central Park Squirrel Census Fur Color Map](https://data.cityofnewyork.us/Environment/2018-Squirrel-Census-Fur-Color-Map/fak5-wcft)
 - Wallis -- [WordNet](https://wordnet.princeton.edu/)
 - Joyce -- [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript)
+- Weber -- [Historical GDP Data](http://api.worldbank.org/v2/indicator/NY.GDP.MKTP.CD)
  
 ## Add your assignment below via Pull Request
 
